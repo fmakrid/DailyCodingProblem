@@ -6,7 +6,7 @@ let k = 17;
 
 for(let i of array1) {
     let diff = k - i;
-    if(diff in array1) {
+    if(array1.includes(diff)) {
         return true;
     }
     else {
