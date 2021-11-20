@@ -15,3 +15,5 @@ for(let i = 0; i < mergedArray.length-1; i++) {
 }
 
 console.log(mergedArray);
+
+//test
